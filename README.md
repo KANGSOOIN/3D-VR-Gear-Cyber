@@ -1,4 +1,4 @@
-# :crystal_ball: VR GEAR CYBER (Unity 3D VR Portfolio)
+# :crystal_ball: VR GEAR CYBER (Unity VR Portfolio)
 > 해결사로 잠입하여 모든 장애물을 피해서 미션을 클리어하는 VR FPS 게임
 
 ![](../header.png)
